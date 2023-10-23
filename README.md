@@ -1,5 +1,5 @@
 ## Deep origin of articulation strategies in panarthropods: evidence from a new luolishaniid lobopodian (Panarthropoda) from the Tulip Beds, Burgess Shale
-###*Cédric Aria and Jean-Bernard Caron*
+### *Cédric Aria and Jean-Bernard Caron*
 
 **Dataset 2.** Morphological matrix of 65 characters and 43 taxa used for the phylogenetic analysis.
 

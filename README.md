@@ -5,7 +5,7 @@
 
 ### Phylogenetic supplementary files
 
-+ **Character list.**
++ **Character list (char_list.md).**
 
 + **Dataset PD1.** Morphological matrix of 81 characters and 48 taxa used for the phylogenetic analysis.
 

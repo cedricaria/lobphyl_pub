@@ -1,3 +1,6 @@
+<a href="https://zenodo.org/doi/10.5281/zenodo.10518808"><img src="https://zenodo.org/badge/708483408.svg" alt="DOI"></a>
+
+
 ## Deep origin of articulation strategies in panarthropods: evidence from a new luolishaniid lobopodian (Panarthropoda) from the Tulip Beds, Burgess Shale
 ### *Cédric Aria and Jean-Bernard Caron*
 
